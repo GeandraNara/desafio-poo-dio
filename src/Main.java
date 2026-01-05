@@ -58,7 +58,7 @@ public class Main {
         System.out.println("Conteúdos Concluidos Julia:" + devJulia.getConteudosConcluidos());
         System.out.println("XP:" + devJulia.cacularTotalXp());
 
-    }
+     }
 
 
-    }
+}
