@@ -39,6 +39,7 @@ public class Main {
         System.out.println("Conteúdos Inscritos Geandra:" + devGeandra.getConteudosInscritos());
         devGeandra.progredir();
         devGeandra.progredir();
+        devGeandra.progredir();
         System.out.println("-");
         System.out.println("Conteúdos Inscritos Geandra:" + devGeandra.getConteudosInscritos());
         System.out.println("Conteúdos Concluídos Geandra:" + devGeandra.getConteudosConcluidos());
